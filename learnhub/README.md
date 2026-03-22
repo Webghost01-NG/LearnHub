@@ -119,10 +119,7 @@ npm run preview
 | `feature/enrollment` | Enrollment hook, course detail CTA, dashboard |
 | `feature/lesson-player` | Lesson page, video simulation, progress tracking |
 
-### Suggested commit history (≥ 12 commits)
 
-```
-feat: initialise Vite + React project
 feat: add global CSS design tokens and base styles
 feat: add course data and demo users
 feat: implement AuthContext with login/logout
